@@ -1,0 +1,12 @@
+{
+  "name": "js-exercises",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "25.1.0"
+  }
+}
