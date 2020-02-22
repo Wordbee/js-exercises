@@ -15,7 +15,9 @@ yarn | npm install
 ## Usage
 
 Each exercise folder contains readme file to describe the exercise.
+
 Each exercise folder contains `index.js` where to write your solution.
+
 Each exercise folder contains `test.js` with tests to validate your solution correctness.
 
 ## Running all tests
